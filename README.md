@@ -17,7 +17,7 @@ Task manager is a project to List/Add/Update/Delete Tasks and projects. It allow
 - Assuming you already have an EC2 AWS Instance setup and you already have git installed on it .
 - Navigate to the root directory
 - Clone the repository : `git clone https://github.com/abderrahmanbelbachir/task-manager.git`
-- You are already on the master branch
+- You are already on the main branch
 - Run `composer install`
 - Run `npm install`
 - Open a browser and navigate either to the domain name mapped with your Instance or to the ip address of the instance
