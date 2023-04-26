@@ -11,7 +11,6 @@
                    id="project-name-input" required
                    name="title"
                    placeholder="Enter project title" value="{{$project->title}}">
-
         </div>
 
         <button type="submit" class="btn btn-primary">Save project</button>
