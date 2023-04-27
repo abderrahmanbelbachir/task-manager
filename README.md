@@ -6,9 +6,11 @@ Task manager is a project to List/Add/Update/Delete Tasks and projects. It allow
 
 ### Installation steps in a local environment
 
-- Pull the main branch `git pull origin main`
+- Clone the repository : `git clone https://github.com/abderrahmanbelbachir/task-manager.git`
+- You are already on the main branch
 - run `composer install`
 - run `npm install`
+- run `php artisan migrate`
 - run `php artisan serve`
 - Open your browser and navigate to `localhost:8000`
 
@@ -20,6 +22,7 @@ Task manager is a project to List/Add/Update/Delete Tasks and projects. It allow
 - You are already on the main branch
 - Run `composer install`
 - Run `npm install`
+- run `php artisan migrate`
 - Open a browser and navigate either to the domain name mapped with your Instance or to the ip address of the instance
 
 
